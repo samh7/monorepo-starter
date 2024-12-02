@@ -1,0 +1,11 @@
+{
+  "name": "nest-next-app",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "pnpm -r --parallel run dev"
+  }
+}
